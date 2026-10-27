@@ -2,7 +2,7 @@
 
 Ground vehicles, animated passengers and ramp crew, and the full turnaround around your aircraft, with its own window in X-Plane 12.
 
-> **Alpha:** things may still change or break. GS4XP checks for updates when X-Plane starts and offers to install them.
+> **Beta:** GS4XP checks for updates when X-Plane starts and installs them, most of the time without a restart. Please report anything that looks wrong.
 
 ## Download
 
